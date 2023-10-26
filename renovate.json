@@ -1,5 +1,5 @@
 {
-"prHourlyLimit": 3
+  "prHourlyLimit": 3
 }
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
